@@ -76,6 +76,7 @@
 ::-webkit-scrollbar-thumb:hover {
     background: #6458ce;
 }
-.cursor{
-    cursor:pointer;
+
+.cursor {
+    cursor: pointer;
 }
